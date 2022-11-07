@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGJLjdrFabJzrDj0AXC7QF09M6pWWrnr6ZaIRMHA5PmlQ88b75BKfLuy7CZ2kY2/Gd49EsVRu0Kq9aE2Y0kcng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre.gulen\\source\\repos\\Northwind\\HEG.Northwind.Service\\HEG.Northwind.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\autowrapper.core\\4.5.0\\autowrapper.core.4.5.0.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\emre.gulen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\bin\Debug\net6.0\HEG.Northwind.Core.deps.json
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\bin\Debug\net6.0\HEG.Northwind.Core.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\bin\Debug\net6.0\HEG.Northwind.Core.pdb
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\refint\HEG.Northwind.Core.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\HEG.Northwind.Core.pdb
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Core\obj\Debug\net6.0\ref\HEG.Northwind.Core.dll

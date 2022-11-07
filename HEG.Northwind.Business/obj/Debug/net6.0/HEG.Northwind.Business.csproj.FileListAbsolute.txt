@@ -1,0 +1,15 @@
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\bin\Debug\net6.0\HEG.Northwind.Business.deps.json
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\bin\Debug\net6.0\HEG.Northwind.Business.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\bin\Debug\net6.0\HEG.Northwind.Business.pdb
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\bin\Debug\net6.0\HEG.Northwind.Core.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\bin\Debug\net6.0\HEG.Northwind.Core.pdb
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.AssemblyInfo.cs
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.csproj.CopyComplete
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\refint\HEG.Northwind.Business.dll
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\HEG.Northwind.Business.pdb
+C:\Users\emre.gulen\source\repos\HEG.Northwind\HEG.Northwind.Business\obj\Debug\net6.0\ref\HEG.Northwind.Business.dll

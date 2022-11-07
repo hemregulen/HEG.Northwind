@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K+HDsLMfCE1Xrp3JrSPF0x6spqknmjHI9yA0UJBZ0go=",
+  "Source": "HEG.Northwind.Api",
+  "BasePath": "_content/HEG.Northwind.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
